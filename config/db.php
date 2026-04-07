@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "c@x3Q77@EKW645x";
+$pass = "";
 $db = "project-movies";
 
 $conn = new mysqli($host, $user, $pass, $db);
